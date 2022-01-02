@@ -1,0 +1,16 @@
+* Helm interface to Japanese wikipedia suggestions
+
+Provides search suggestions and article extracts for Japanese Wikipedia.
+
+** Original package
+https://github.com/emacs-helm/helm-wikipedia
+
+** Install
+
+This package is *NOT* on any package archive like MELPA.
+Please download helm-ja-wikipedia.el.
+
+** Usage
+
+M-x helm-ja-wikipedia-suggest
+
